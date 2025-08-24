@@ -1,18 +1,15 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ommprakash9/Ommprakash9/main/github-header-banner.png" alt="Hey! I am Omm Prakash Sahoo - Fullstack Developer" />
-</p>
+![Hey! I am Omm Prakash Sahoo - Fullstack Developer](./github-header-banner.png)
 
 ---
 
-## 👋 Hey there, I'm Omm Prakash Sahoo  
+# 👋 Hey there, I'm Omm Prakash Sahoo  
 
-💻 Fullstack Developer passionate about **building modern, scalable, and creative web apps**.  
+💻 Fullstack Developer passionate about **building modern, scalable, and creative web apps.**  
 🚀 Always exploring new technologies to make the web more interactive and powerful.  
 
 ---
 
-## 🙋‍♂️ About Me  
+## 🐱 About Me  
 
 - 🌱 Currently learning **Next.js & Advanced Backend Development**  
 - 🎯 Goal: To become a **Top-notch Fullstack Developer & Open Source Contributor**  
@@ -24,36 +21,26 @@
 
 ## 🔥 Projects  
 
-- 🌍 **[Travel Log Master](https://github.com/Ommprakash9/travel-log-master)** → A full-featured travel log app to store and share your journeys.  
-- ☁️ **[Weather Pro](https://github.com/Ommprakash9/weather-app)** → A real-time weather app using OpenWeather API with sleek UI.  
+- 🌍 [**Travel Log Master**](https://github.com/Ommprakash9/travel-log-master) – A colorful travel journaling web app  
+- ⛅ [**Weather Pro**](https://github.com/Ommprakash9/weather-app) – Real-time weather updates with a sleek UI  
+- ✅ [**To-Do List**](https://github.com/Ommprakashsahoo1690/todo-list) – A modern responsive to-do app  
 
 ---
 
-## ⚡ Tech Stack  
+## 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,tailwind,git,github,vscode" />
+  <a href="https://github.com/Ommprakash9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=171515&color=00f5ff" />
+  </a>
+  <a href="https://www.linkedin.com/in/omm-prakash-sahoo-82139231a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=ff00ff" />
+  </a>
+  <a href="https://www.instagram.com/imnot_omm_/profilecard/?igsh=YjBiM2ZoNHFneGU5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=00ff88" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ommprakash9&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ommprakash9&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
-## 🌐 Connect with me  
-
-<p align="center">
-  <a href="https://github.com/Ommprakash9"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
-  <a href="https://www.linkedin.com/in/omm-prakash-sahoo-82139231a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://www.instagram.com/imnot_omm_/profilecard/?igsh=YjBiM2ZoNHFneGU5"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-</p>
-
----
-
-✨ _“Code. Build. Break. Learn. Repeat.”_  
+✨ *“Keep learning, keep building, keep growing.”*
