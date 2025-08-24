@@ -1,70 +1,59 @@
-<!-- 👋 Welcome Banner -->
-<h1 align="center">✨ Hey, I'm Omm Prakash Sahoo ✨</h1>
-<h3 align="center">🚀 Web Developer | 🎨 Designer | 💡 Tech Explorer</h3>
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ommprakash9/Ommprakash9/main/github-header-banner.png" alt="Hey! I am Omm Prakash Sahoo - Fullstack Developer" />
+</p>
 
 ---
 
-## 🌌 About Me  
-🌱 Passionate Web Developer building **modern & creative web experiences**  
-⚡ Love mixing **design + code** to craft futuristic websites  
-📍 Based in **India**  
-🎯 Goal: Become a **Full-Stack Developer & Tech Innovator**  
+## 👋 Hey there, I'm Omm Prakash Sahoo  
+
+💻 Fullstack Developer passionate about **building modern, scalable, and creative web apps**.  
+🚀 Always exploring new technologies to make the web more interactive and powerful.  
 
 ---
 
-## 🛠️ Skills & Tools  
-💻 **Languages & Frameworks**  
-`HTML5` | `CSS3` | `JavaScript` | `React.js` | `Node.js`  
+## 🙋‍♂️ About Me  
 
-🎨 **Design & Styling**  
-`TailwindCSS` | `Bootstrap` | `Figma` | `Canva`  
-
-🗄️ **Other Tools**  
-`Git & GitHub` | `Vercel` | `Netlify` | `REST APIs`  
+- 🌱 Currently learning **Next.js & Advanced Backend Development**  
+- 🎯 Goal: To become a **Top-notch Fullstack Developer & Open Source Contributor**  
+- 🎨 Love designing **creative UIs** with a futuristic vibe  
+- 🌍 Based in **India**  
+- ⚡ Fun fact: I debug my code faster with **coffee ☕ + music 🎧**  
 
 ---
 
-## 🚀 Projects  
+## 🔥 Projects  
 
-### 🔹 [Travel Log Master](https://github.com/Ommprakash9/Travel-Log-Master)  
-✈️ A colorful travel diary web app to record and showcase travel journeys.  
-🌐 Live Demo: [Travel Log Master](https://travel-log-master-m3hqf9wyu.vercel.app/)  
+- 🌍 **[Travel Log Master](https://github.com/Ommprakash9/travel-log-master)** → A full-featured travel log app to store and share your journeys.  
+- ☁️ **[Weather Pro](https://github.com/Ommprakash9/weather-app)** → A real-time weather app using OpenWeather API with sleek UI.  
 
 ---
 
-### 🔹 [Weather Pro](https://github.com/ommprakashsahoo1690/weather-app)  
-🌦️ Real-time weather app showing temperature, humidity, and conditions.  
-🌐 Live Demo: [Weather Pro](https://weather-app-omm.vercel.app/)  
+## ⚡ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,mysql,tailwind,git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ommprakash9&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ommprakash9&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ommprakash9&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ommprakash9&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect with me  
 
 <p align="center">
-  <a href="https://github.com/Ommprakash9">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/omm-prakash-sahoo-82139231a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/imnot_omm_/profilecard/?igsh=YjBiM2ZoNHFneGU5">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <a href="https://github.com/Ommprakash9"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+  <a href="https://www.linkedin.com/in/omm-prakash-sahoo-82139231a"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.instagram.com/imnot_omm_/profilecard/?igsh=YjBiM2ZoNHFneGU5"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 
 ---
 
-## ⚡ Fun Fact  
-💡 I mix **creativity + code** to make my projects stand out ✨  
+✨ _“Code. Build. Break. Learn. Repeat.”_  
